@@ -2,7 +2,7 @@
 MATLAB code for a program and GUI that gives D-optimal designs.
 
 There are two folders, one for the program Systematic Search and one for the program One Step.
-Systematic search is better. I recommend you always use Systematic Search. The reason for the One Step-folder is so that users might use the code. 
+Systematic search is better. I recommend you always use Systematic Search. The reason for the One Step-folder being here is so that users might use the code. 
 
 User instructions:
 1) Download the folder "Systematic Search".
